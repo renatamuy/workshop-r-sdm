@@ -71,7 +71,7 @@ class: inverse, center, middle
 ]
 
 .pull-right[
-### - Renata Muylert
+### - Renata Muylaert
 ### - Julia Oshima
 ### - Carol Bello
 ### - Prof. Matheus Lima-Ribeiro
